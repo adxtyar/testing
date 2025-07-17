@@ -2,3 +2,5 @@ Initial example of test file.
 
 second changes
 third changes to see branch feature
+
+fourth change to see reset command (if nothing beneath this means hard reset)
